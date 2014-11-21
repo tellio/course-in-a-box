@@ -5,6 +5,8 @@ published: true
 
 ## Create a Learning Community that Lasts
 
+My experience with online "courses" have been a mixed bag.  I have enjoyed much success in MOOCs with the great aid of other facilitators. Trying to replicate those cMOOCs in hybrid or in Blackboard online courses, has proven difficult.  This course must become a community in a box.  How do we do that?  Let's work together on that.
+
 Online courses often feel large, intimidating and anonymous. It's hard to feel invested
 in multiple choice quizzes, textbook chapters and hum-drum Q &amp; A forums where you
 don't know anyone.
