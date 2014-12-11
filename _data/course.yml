@@ -1,6 +1,6 @@
-title: Community in a Box
-description: Build Your Very Own Open Course
-modules: [start, community, learning, content, feedback, references]
+title: MOOC Hostel
+description: Take your ease and share some stories about MOOCs gone by, MOOCs here and now, and MOOCS yet to come
+modules: [start, reviews, previews, community, learning, content, feedback, references]
 signups:
  - name: Dirk Uys
    image: http://thebacklog.net/img/profile.jpeg
